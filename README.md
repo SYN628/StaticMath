@@ -1,0 +1,2 @@
+# StaticMath
+a static math
